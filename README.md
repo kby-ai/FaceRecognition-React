@@ -63,7 +63,7 @@ npm start
 ## 📞 Support
 
 - 🧙 **Email:** contact@kby-ai.com  
-- 🧙 **Telegram:** [@kbyai](https://t.me/kbyai)  
+- 🧙 **Telegram:** [@kbyaisupport](https://t.me/kbyaisupport)
 - 🧙 **WhatsApp:** [+1 909-280-2609](https://wa.me/+19092802609)  
 - 🧙 **Discord:** [KBY-AI Community](https://discord.gg/CgHtWQ3k9T)  
 - 🧙 **Microsoft Teams:** [Join Here](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)
